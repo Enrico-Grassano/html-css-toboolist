@@ -1,0 +1,20 @@
+* {
+    background-color: #F0FFFF;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0px;
+}
+/* header */
+header {
+    background-color: white;
+    height: 68px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+h1 {
+    font-weight: bolder;
+    display: inline-block;
+    line-height: 16px;
+    vertical-align: 16px;
+    font-family: font-family: 'Noto Sans JP', sans-serif;
+}
